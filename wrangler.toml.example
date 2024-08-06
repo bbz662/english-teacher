@@ -1,0 +1,8 @@
+name = "english-teacher"
+main = "src/index.ts"
+compatibility_date = "2023-05-18"
+
+[triggers]
+crons = ["0 0 * * *"] # UTC daily job
+
+[vars]

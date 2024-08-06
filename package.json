@@ -1,0 +1,17 @@
+{
+  "name": "english-teacher",
+  "version": "1.0.0",
+  "description": "```\r npm install -g wrangler\r wrangler login\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240729.0",
+    "@types/node": "^22.1.0",
+    "typescript": "^5.5.4"
+  }
+}
